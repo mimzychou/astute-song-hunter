@@ -1,0 +1,10 @@
+(dp0
+Vgoogle
+p1
+Vdadadasd
+p2
+sS'localhost'
+p3
+S'http://localhost/'
+p4
+s.
